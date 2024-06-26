@@ -1,5 +1,4 @@
-
-[![MasterHead](https://media.licdn.com/dms/image/C4E12AQFJimUSTnwveQ/article-cover_image-shrink_600_2000/0/1630496407547?e=2147483647&v=beta&t=gDkf8noaAvHmzwBLONSyRRvXTTbroVKtpcZ39PbSy_E)
+![MasterHead](https://media.licdn.com/dms/image/C4E12AQFJimUSTnwveQ/article-cover_image-shrink_600_2000/0/1630496407547?e=2147483647&v=beta&t=gDkf8noaAvHmzwBLONSyRRvXTTbroVKtpcZ39PbSy_E)
 <h1 align="center">Hi 👋, I'm Niroshan Selvaraj</h1>
 <h4 align="center">A passionate BSc.Software Enginnering Student from Sri Lanka</h4>
 
