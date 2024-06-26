@@ -2,11 +2,10 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4E12AQFJimUSTnwveQ/article-cover_image-shrink_600_2000/0/1630496407547?e=2147483647&v=beta&t=gDkf8noaAvHmzwBLONSyRRvXTTbroVKtpcZ39PbSy_E)
 <h1 align="center">Hi 👋, I'm Niroshan Selvaraj</h1>
 <h4 align="center">A passionate BSc.Software Enginnering Student from Sri Lanka</h4>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niro17&label=Profile%20views&color=0e75b6&style=flat" alt="niro17" /> </p>
-
+<img align="right" alt="Coding" width="275" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **React, JS**
 
@@ -24,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niro17&show_icons=true&locale=en" alt="niro17" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niro17&" alt="niro17" /></p>
+
